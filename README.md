@@ -18,6 +18,13 @@ Native macOS tooling for the HP Smart Tank 500 series and the first public Ateli
 **Current public release:** [v1.1.0](https://github.com/AtelierMinuit/TankControl/releases/tag/v1.1.0) · MIT licensed  
 **Distribution note:** the current PKG is unsigned and not notarized; the release documents this explicitly.
 
+### MarkdownDrop
+
+Native macOS drag-and-drop document converter to Markdown with on-device Apple Vision OCR.
+
+**Stack:** Swift · SwiftUI · Vision Framework · Local-first document processing  
+**Status:** In active development (v1.2)
+
 ## Atelier scope
 
 `macOS` · `Unix` · `Apple Silicon` · `Systems` · `Hardware` · `Automation` · `Local-first software`
