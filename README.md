@@ -11,11 +11,11 @@
 
 ## Selected work
 
-### [TankControl](https://github.com/giorgiogpt/TankControl)
+### [TankControl](https://github.com/AtelierMinuit/TankControl)
 
 Native macOS tooling for the HP Smart Tank 500 series and the first public Atelier Minuit project.
 
-**Current public release:** [v1.1.0](https://github.com/giorgiogpt/TankControl/releases/tag/v1.1.0) · MIT licensed  
+**Current public release:** [v1.1.0](https://github.com/AtelierMinuit/TankControl/releases/tag/v1.1.0) · MIT licensed  
 **Distribution note:** the current PKG is unsigned and not notarized; the release documents this explicitly.
 
 ## Atelier scope
