@@ -1,16 +1,16 @@
-## Hi there 👋
+# Atelier Minuit
 
-<!--
-**giorgiogpt/giorgiogpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent software, tools & experiments.
 
-Here are some ideas to get you started:
+Atelier Minuit is a small independent software atelier focused on useful tools, macOS systems work, hardware interoperability and local-first software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+
+### TankControl
+Native macOS tooling for HP Smart Tank 500.
+
+[View project →](https://github.com/giorgiogpt/TankControl)
+
+## Areas
+
+macOS · Unix · Systems · Hardware · Automation · Local-first software
