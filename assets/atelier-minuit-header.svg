@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Atelier Minuit</title>
+  <desc id="desc">Atelier Minuit profile header with midnight symbol and tagline.</desc>
+  <rect width="1200" height="300" rx="28" fill="#0B0D10"/>
+  <line x1="394" y1="58" x2="394" y2="242" stroke="#2B3038" stroke-width="2"/>
+  <g transform="translate(70 73)" fill="none" stroke="#E8E5DD" stroke-width="15" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="0" y="0" width="54" height="154" rx="27"/>
+    <rect x="68" y="0" width="54" height="154" rx="27"/>
+    <circle cx="145" cy="45" r="8" fill="#4D6BFF" stroke="none"/>
+    <circle cx="145" cy="109" r="8" fill="#4D6BFF" stroke="none"/>
+    <rect x="168" y="0" width="54" height="154" rx="27"/>
+  </g>
+  <rect x="310" y="73" width="24" height="154" rx="5" fill="#4D6BFF"/>
+  <text x="455" y="128" fill="#E8E5DD" font-family="Inter, Helvetica, Arial, sans-serif" font-size="60" font-weight="300" letter-spacing="8">ATELIER</text>
+  <text x="455" y="190" fill="#E8E5DD" font-family="Inter, Helvetica, Arial, sans-serif" font-size="60" font-weight="800" letter-spacing="3">MINUIT</text>
+  <text x="458" y="231" fill="#8C95A3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" letter-spacing="1">independent software, tools &amp; experiments.</text>
+  <rect x="1095" y="66" width="42" height="4" rx="2" fill="#4D6BFF"/>
+  <text x="1045" y="240" fill="#5E6673" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="3">00:00</text>
+</svg>
